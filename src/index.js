@@ -1,4 +1,4 @@
-﻿import './style.css';
+import './style.css';
 import completeArray from './module/complete-array.js';
 import checking from './module/checkbox.js';
 
